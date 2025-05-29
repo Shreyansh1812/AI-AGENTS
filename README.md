@@ -47,4 +47,4 @@ Integrates both Web Search and Finance agents to generate a cohesive, intelligen
 
 - Python 3.8+
 - `phidata` library installed
-💬 Note: Two screenshots are provided for the Master Agent to show a multi-part response.
+
